@@ -2,18 +2,12 @@
 
 뉴스 추천 시스템 관련 모델들을 일부 구현해보았습니다.
 
-**Models in published papers**
+**Models**
 
 | Model     | Full name                                                                 | Paper                                              |
 | --------- | ------------------------------------------------------------------------- | -------------------------------------------------- |
 | NRMS      | Neural News Recommendation with Multi-Head Self-Attention                 | https://www.aclweb.org/anthology/D19-1671/         |
 | NAML      | Neural News Recommendation with Attentive Multi-View Learning             | https://arxiv.org/abs/1907.05576                   |
-
-**Experimental models**
-
-| Model | Description                                                                                        |
-| ----- | -------------------------------------------------------------------------------------------------- |
-| Exp1  | NRMS + (Sub)category + Ensemble + Positional embedding                                             |
 
 ## 학습하기
 
